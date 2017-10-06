@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SimpleCounter</string>
+    <string name="confirm">Confirmation</string>
+    <string name="sure">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>
